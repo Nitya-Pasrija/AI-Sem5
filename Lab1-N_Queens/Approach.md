@@ -76,3 +76,5 @@ solveNQ()
 ```
 
 ## 2. A star algorithm
+A* Search algorithm is one of the best and popular technique used in path-finding and graph traversals. Informally speaking, A* Search algorithms, unlike other traversal techniques, it has “brains”. What it means is that it is really a smart algorithm which separates it from the other conventional algorithms. It is also worth mentioning that many games and web-based maps use this algorithm to find the shortest path very efficiently (approximation). 
+
